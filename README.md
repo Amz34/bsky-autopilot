@@ -71,3 +71,7 @@ python tweet.py "My new tool: https://github.com/Amz34/linkedin-autopilot"
 ## License
 
 MIT — free to use, fork, and ship.
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
